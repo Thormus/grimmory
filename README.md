@@ -1,3 +1,5 @@
+<img width="512" height="512" alt="grimmory_512" src="https://github.com/user-attachments/assets/18ad5b8f-ad0c-436e-a731-2ceb490ab0a3" />
+
 > [!NOTE]
 > This project is in early development. Some links (website, documentation, demo, repositories) are not yet active and will come online as infrastructure is set up.
 
